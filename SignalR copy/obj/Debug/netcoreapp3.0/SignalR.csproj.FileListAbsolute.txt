@@ -1,0 +1,144 @@
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/libman.json
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.exe
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.deps.json
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.json
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.dev.json
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.dll
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.pdb
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.Views.dll
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/bin/Debug/netcoreapp3.0/SignalR.Views.pdb
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.csprojAssemblyReference.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.Manifest.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.xml
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfoInputs.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfo.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.input.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.output.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorCoreGenerate.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cache
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cs
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.Views.pdb
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.dll
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.pdb
+C:/Users/japsa/Documents/Visual Studio 2019/SignalR/obj/Debug/netcoreapp3.0/SignalR.csproj.CopyComplete
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/libman.json
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.exe
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.deps.json
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.json
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.dev.json
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.dll
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.pdb
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.Views.dll
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.Views.pdb
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.csprojAssemblyReference.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.Manifest.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.xml
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfoInputs.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfo.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.input.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.output.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorCoreGenerate.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cache
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cs
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.Views.pdb
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.dll
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.pdb
+C:/Users/kempk/OneDrive/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.csproj.CopyComplete
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.csprojAssemblyReference.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfoInputs.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfo.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.dll
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/libman.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.deps.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.dev.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.dll
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.Views.dll
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/bin/Debug/netcoreapp3.0/SignalR.Views.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.input.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.output.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorCoreGenerate.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.Views.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.Manifest.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.xml
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR/obj/Debug/netcoreapp3.0/SignalR.csproj.CopyComplete
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/libman.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/SignalR.deps.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/SignalR.runtimeconfig.dev.json
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/SignalR.dll
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/SignalR.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/SignalR.Views.dll
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/bin/Debug/netcoreapp3.0/SignalR.Views.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.csprojAssemblyReference.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.RazorAssemblyInfo.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfoInputs.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.AssemblyInfo.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.input.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.TagHelpers.output.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.RazorCoreGenerate.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.RazorTargetAssemblyInfo.cs
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.Views.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.Manifest.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/staticwebassets/SignalR.StaticWebAssets.xml
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.dll
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.pdb
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.csproj.CopyComplete
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.csproj.CoreCompileInputs.cache
+/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/Debug/netcoreapp3.0/SignalR.genruntimeconfig.cache

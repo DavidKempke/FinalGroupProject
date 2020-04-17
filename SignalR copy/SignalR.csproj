@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="git\" />
+    <Folder Include="wwwroot\html\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\html\htmlpage.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\html\htmlpage.html" />
+  </ItemGroup>
+</Project>
