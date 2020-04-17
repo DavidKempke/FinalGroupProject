@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="../js/site.js"></script>
+    <title>Group Page</title>
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="display-4">Welcome [Add User here]</h1> <!--for the user here-->
+
+        <form>
+            <label for="groups">Groups: </label>
+            <select id="groups" onload="fillDrop()"></select>
+            <button id="getGroup" onclick="getOption()" type="button">Select Group</button>
+            <br />
+            <br />
+            <br />
+
+
+            <button id="addgroup">Create a Group</button> <!--this button allows the user to create a group-->
+            <label for="addgroup">Enter the group name here:</label>
+            <input type="text" id="namegroup" name="namegroup" /><br /><!--this becomes visible and allows user to create group-->
+
+
+            <button id="additem">Add new item</button> <!--display this when the item in drop down list is selected otherwise it is invisible -->
+
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <div id="items">
+                Items go here
+            </div>
+
+
+            <!--creates this for each item in the group-->
+            <label for="isEditable">Edit?</label>
+            <input type="checkbox" id="isEditable" onclick="checking()" />
+            <label for="visible">Make visible?</label>
+            <input type="checkbox" id="visible" />
+            <input type="text" id="content" value="" readonly />
+        </form>
+
+
+    </div>
+</body>
+</html>
