@@ -5,7 +5,7 @@ namespace SignalR.git
     public class gitObj
     {
         public List<Group> groups;
- 
+
         public gitObj()
         {
             groups = new List<Group>();
@@ -22,13 +22,19 @@ namespace SignalR.git
 
             for (int i = 0; i < groups.Count; i++)
             {
-                    temp[i] = groups[i].name;
-                
+                temp[i] = groups[i].name;
+
             }
 
             return temp;
         }
-        public string newItem(string owner, string name, string item)
+        public int getGroupIndex(string name)
+        {
+            int groupIndex = groups.FindIndex(x => x.name == name);
+
+            return groupIndex;
+        }
+        public string newgroup(string owner, string name, string item)
         {
             if (groups.Exists(x => x.name == name))
             {

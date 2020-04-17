@@ -10,8 +10,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\html\htmlpage.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="wwwroot\html\htmlpage.html" />
+    <Content Remove="wwwroot\html\grouppage.html" />
   </ItemGroup>
 </Project>

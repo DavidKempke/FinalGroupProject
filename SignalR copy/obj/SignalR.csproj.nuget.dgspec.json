@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/SignalR.csproj": {}
+    "/Users/davidkempke/Documents/GitHub/FinalGroupProject/SignalR copy/SignalR.csproj": {}
   },
   "projects": {
-    "/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/SignalR.csproj": {
+    "/Users/davidkempke/Documents/GitHub/FinalGroupProject/SignalR copy/SignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/SignalR.csproj",
+        "projectUniqueName": "/Users/davidkempke/Documents/GitHub/FinalGroupProject/SignalR copy/SignalR.csproj",
         "projectName": "SignalR",
-        "projectPath": "/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/SignalR.csproj",
+        "projectPath": "/Users/davidkempke/Documents/GitHub/FinalGroupProject/SignalR copy/SignalR.csproj",
         "packagesPath": "/Users/davidkempke/.nuget/packages/",
-        "outputPath": "/Users/davidkempke/Documents/GitHub/cs3750LIfeGame/SignalR copy/obj/",
+        "outputPath": "/Users/davidkempke/Documents/GitHub/FinalGroupProject/SignalR copy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/davidkempke/.config/NuGet/NuGet.Config"
