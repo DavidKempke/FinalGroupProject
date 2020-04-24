@@ -16,7 +16,7 @@ namespace BuildGit.git
             item = "help me build this.";
             name = "item1";
             editable = true;
-            viewable = true;
+            viewable = false;
             for (int i = 0; i < 100; i++)
             {
                 items[i] = i.ToString();
@@ -28,7 +28,7 @@ namespace BuildGit.git
             this.item = "help me";
             this.name = name;
             editable = true;
-            viewable = true;
+            viewable = false;
             for (int i = 0; i < 100; i++)
             {
                 items[i] = i.ToString();

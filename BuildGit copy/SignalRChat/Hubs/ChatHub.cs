@@ -59,7 +59,31 @@ namespace SignalRChat.Hubs
             await Clients.Caller.SendAsync("ReceiveItem", currentGroup.getItem(name));
         }
 
+        public async Task UpdateItem(string group, string name, string itemText, string editable ,string viewable)
+        {
 
+            bool edit = false;
+            bool view = false;
+
+            currentGroup = git.groups[git.getGroupIndex(group)];
+
+            Console.WriteLine(editable + viewable);
+
+            if (editable == "1")
+            {
+                edit = true;
+            }
+
+            if (viewable == "1")
+            {
+                view = true;
+            }
+
+
+            currentGroup.updateItem(name, itemText, edit, view);
+
+            await Clients.All.SendAsync("ReceiveGroups", git.getGroupslist());
+        }
 
     }
 }

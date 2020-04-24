@@ -88,12 +88,13 @@ namespace BuildGit.git
                 return "new Item created";
             }
         }
-        public void updateItem(string name, string itemValue, bool visable)
+        public void updateItem(string name, string itemValue,bool editable , bool visable)
         {
             int itemIndex = items.FindIndex(x => x.name == name);
 
             items[itemIndex].item = itemValue;
 
+            items[itemIndex].editable = editable;
 
             items[itemIndex].viewable = visable;
         }

@@ -13,6 +13,11 @@ var items
 var CurrentGroup
 var sel = document.getElementById("groups");
 var iel = document.getElementById("items");
+var div = document.getElementById("items");
+var it = document.getElementById("textid");
+
+var editCheck = document.getElementById("edit");
+var checkvis = document.getElementById("isvis");
 
 //Disable send button until connection is established
 document.getElementById("NewGroup").disabled = true;
@@ -45,7 +50,7 @@ document.getElementById("sendButton").addEventListener("click", function (event)
     document.getElementById("NewGroup").disabled = false;
     document.getElementById("SelectGroup").disabled = false;
     user = document.getElementById("userInput").value;
-    alert("User: " + user);
+
     var message = document.getElementById("messageInput").value;
     connection.invoke("SendMessage", user).catch(function (err) {
         return console.error(err.toString());
@@ -57,7 +62,7 @@ document.getElementById("NewGroup").addEventListener("click", function (event) {
 
 
     var message = document.getElementById("messageInput").value;
-    alert("New Group: " + message);
+
     connection.invoke("NewGroup", message).catch(function (err) {
         return console.error(err.toString());
     });
@@ -68,7 +73,7 @@ document.getElementById("NewItem").addEventListener("click", function (event) {
 
 
     var message = document.getElementById("ItemInput").value;
-    alert("New item: " + message);
+ 
     connection.invoke("NewItem", CurrentGroup, message,user).catch(function (err) {
         return console.error(err.toString());
     });
@@ -83,7 +88,7 @@ document.getElementById("SelectGroup").addEventListener("click", function (event
     var s = document.getElementById("groups");
     var e = s.options[s.selectedIndex].value;
     CurrentGroup = e;
-    alert("New Group: " + e + user);
+    
     connection.invoke("getItems", e, user).catch(function (err) {
         return console.error(err.toString());
     });
@@ -96,8 +101,21 @@ document.getElementById("SelectItems").addEventListener("click", function (event
     var s = document.getElementById("items");
     var e = s.options[s.selectedIndex].value;
     item = e;
-    alert("item: " + e);
+  
     connection.invoke("GetItem", CurrentGroup, item).catch(function (err) {
+        return console.error(err.toString());
+    });
+    event.preventDefault();
+});
+
+document.getElementById("UpdateItem").addEventListener("click", function (event) {
+
+    
+
+
+    itemText = it.value
+
+    connection.invoke("UpdateItem", CurrentGroup, item, itemText, editable, viewable).catch(function (err) {
         return console.error(err.toString());
     });
     event.preventDefault();
@@ -121,8 +139,7 @@ connection.on("ReceiveGroups", function (groupList) {
 });
 connection.on("ReceiveItems", function (itemsList) {
     items = itemsList;
-    alert(items[0]);
-    alert("length " + iel.options.length);
+
     var i, L = iel.options.length - 1;
     for (i = L; i >= 0; i--) {
         iel.remove(i);
@@ -140,7 +157,7 @@ connection.on("ReceiveItems", function (itemsList) {
 
 connection.on("ReceiveItem", function (n) {
 
-    alert("debug");
+   
 
     var x = n.split(",");
 
@@ -150,17 +167,94 @@ connection.on("ReceiveItem", function (n) {
 
     document.getElementById("textid").value = itemText;
 
-    alert(itemText + editable + viewable);
+    
 
-    //Checkbox for Edit
-    var editCheck = document.createElement('input');
-    editCheck.type = "checkbox";
-    editCheck.id = "edit";
+    if (editable === "1") {
+        editCheck.checked = true;
 
-    //Label for Edit Checkbox
-    var checkLabel = document.createElement('label');
-    checkLabel.htmlFor = "edit";
-    var textin = document.createTextNode("Edit?");
-    checkLabel.appendChild(textin);
+    } else {
+        editCheck.checked = false;
+    }
+
+
+    if (viewable === "1") {
+        checkvis.checked = true;
+
+    } else {
+        checkvis.checked = false;
+    }
+
+
+    if (editCheck.checked === true) {
+
+        editable = "1";
+
+        open(it);
+    }
+    else {
+
+
+
+        editable = "0";
+
+        alert(editable);
+
+        closed(it);
+    }
+
+
 
 });
+
+function showEdit() {
+    var button = document.getElementById("additem");
+}
+
+function open(it) {
+    it.readOnly = false;
+}
+
+function closed(it) {
+    it.readOnly = true;
+}
+
+
+
+
+
+
+editCheck.onclick = function () {
+
+    
+
+    if (editCheck.checked === true) {
+
+        editable = "1";
+
+
+    }
+    else {
+
+        
+
+        editable = "0";
+
+    }
+};
+checkvis.onclick = function () {
+
+    if (checkvis.checked === true) {
+
+        viewable = "1";
+
+        open(it);
+    }
+    else {
+
+        viewable = "0";
+
+        closed(it);
+    }
+
+};
+

@@ -55,15 +55,36 @@
         <br />
 
         <div class="row">
-            <div class="col-2">test</div>
-            <div class="col-4"><textarea id="textid" maxLength = "500" cols = "20" rows = "5">
-            </textarea></div>
+            <div class="col-2">Item Text</div>
+            <div class="col-4">
+                <textarea id="textid" maxLength="500" cols="20" rows="5">
+            </textarea>
+            </div>
             <div class="col-6">
                 <input type="button" id="UpdateItem" value="Update Item" />
             </div>
         </div>
         <br />
+        <div class="row">
+            <div class="col-2">Editable</div>
+            <div class="col-4"><input type="checkbox" id="edit" /></div>
 
+        </div>
+        <div class="row">
+            <div class="col-2">Viewable</div>
+            <div class="col-4"><input type="checkbox" id="isvis" /></div>
+
+        </div>
+
+        <div id="items">
+            <br />
+           
+
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
 
 
         <div class="row">&nbsp;</div>
@@ -72,11 +93,6 @@
 <div class="row">
     <div class="col-12">
         <hr />
-    </div>
-</div>
-<div class="row">
-    <div class="col-6">
-        <ul id="messagesList"></ul>
     </div>
 </div>
 <script src="~/js/signalr/dist/browser/signalr.js"></script>
