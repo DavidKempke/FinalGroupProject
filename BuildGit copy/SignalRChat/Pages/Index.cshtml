@@ -1,0 +1,83 @@
+﻿@page
+    <div class="container">
+        <div class="row">&nbsp;</div>
+        <div class="row">
+            <div class="col-2">User</div>
+            <div class="col-4"><input type="text" id="userInput" /></div>
+            <div class="col-6">
+                <input type="button" id="sendButton" value="login" />
+            </div>
+        </div>
+
+
+        <br />
+        <br />
+
+
+        <div class="row">
+            <div class="col-2">New Group</div>
+            <div class="col-4"><input type="text" id="messageInput" /></div>
+            <div class="col-6">
+                <input type="button" id="NewGroup" value="New Group" />
+            </div>
+        </div>
+        <br />
+
+        <div class="row">
+            <div class="col-2">Groups</div>
+            <div class="col-4">
+                <select id="groups"></select>
+            </div>
+            <div class="col-6">
+                <input type="button" id="SelectGroup" value="Select Group" />
+            </div>
+        </div>
+        <br />
+
+        <div class="row">
+            <div class="col-2">New Item</div>
+            <div class="col-4"><input type="text" id="ItemInput" /></div>
+            <div class="col-6">
+                <input type="button" id="NewItem" value="New Item" />
+            </div>
+        </div>
+        <br />
+
+        <div class="row">
+            <div class="col-2">Items</div>
+            <div class="col-4">
+                <select id="items"></select>
+            </div>
+            <div class="col-6">
+                <input type="button" id="SelectItems" value="Select Item" />
+            </div>
+        </div>
+        <br />
+
+        <div class="row">
+            <div class="col-2">test</div>
+            <div class="col-4"><textarea id="textid" maxLength = "500" cols = "20" rows = "5">
+            </textarea></div>
+            <div class="col-6">
+                <input type="button" id="UpdateItem" value="Update Item" />
+            </div>
+        </div>
+        <br />
+
+
+
+        <div class="row">&nbsp;</div>
+
+    </div>
+<div class="row">
+    <div class="col-12">
+        <hr />
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <ul id="messagesList"></ul>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
